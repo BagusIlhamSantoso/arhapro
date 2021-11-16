@@ -1,0 +1,29 @@
+body {
+  font-family: montserrat, sans-serif;
+}
+
+section {
+  padding: 5rem;
+}
+:root {
+  --color-1: #ade8f4;
+  --color-2: #023e8a;
+  --color-3: #b7b7a4;
+  --color-4: #48cae4;
+}
+.footer {
+  background-color: #212529;
+  color: #fff;
+  padding: 0;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+.footer .container .row .col-md-4 .card {
+  background: none;
+  border: none;
+}
+.footer .container .row .col-md-4 .bi {
+  font-size: 2rem;
+  margin: 0 5px;
+  color: #fff;
+}
